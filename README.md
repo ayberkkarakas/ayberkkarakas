@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ayberkkarakas
 - 👀 I’m interested in web and game development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently studying CS50.
 - 📫 You can reach me from my Twitter account.
