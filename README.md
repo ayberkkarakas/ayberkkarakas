@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ayberkkarakas
-- 👀 I’m interested in web and game development.
-- 🌱 I’m currently taking CS50x course.
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning Unity.
 - 📫 You can reach me from my Linkedin account: https://www.linkedin.com/in/ayberkkarakas/
