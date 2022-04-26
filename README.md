@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ayberkkarakas
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Unity.
-- 📫 You can reach me from my Linkedin account: https://www.linkedin.com/in/ayberkkarakas/
+- 📫 You can reach me from ayberkkarakas021@gmail.com
